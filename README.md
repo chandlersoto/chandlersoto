@@ -89,28 +89,6 @@
 
 <div align="center">
 
-### `> fortune | cowsay`
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### `> open contributions.skyline`
-
-<a href="https://skyline.github.com/chandlersoto/2025">
-  <img src="https://img.shields.io/badge/-View%20my%202025%20GitHub%20Skyline-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=chandlersoto&color=06b6d4&style=flat-square&label=visitors)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandlersoto)

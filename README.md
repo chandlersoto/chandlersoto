@@ -69,33 +69,29 @@
 
 <div align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=chandlersoto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
-&nbsp;&nbsp;
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandlersoto&theme=tokyonight&hide_border=true&background=0d1117" />
+### `> ./stats.sh`
 
 </div>
 
 <br/>
 
 <div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chandlersoto&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&area_color=7c3aed" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=chandlersoto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&icon_color=06b6d4&title_color=7c3aed&text_color=a8b2d1&ring_color=7c3aed" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=chandlersoto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=chandlersoto&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=a8b2d1&dates=a8b2d1" />
+  <img width="47%" src="https://streak-stats.demolab.com?user=chandlersoto&theme=tokyonight&hide_border=true" />
+</picture>
 </div>
 
----
+<br/>
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=chandlersoto&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/chandlersoto/chandlersoto/output/github-contribution-grid-snake-dark.svg)
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chandlersoto&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&area_color=7c3aed&line=06b6d4&point=fff&color=a8b2d1" />
 
 </div>
 

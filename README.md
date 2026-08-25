@@ -77,11 +77,11 @@
 
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com?user=chandlersoto&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=a8b2d1&dates=a8b2d1" />
+<img width="60%" alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=chandlersoto&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=a8b2d1&dates=a8b2d1" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chandlersoto&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&area_color=7c3aed&line=06b6d4&point=fff&color=a8b2d1" />
+<img alt="GitHub contribution snake" src="./output/github-snake.svg" />
 
 </div>
 

@@ -77,7 +77,7 @@
 
 <div align="center">
 
-<img width="60%" alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=chandlersoto&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=a8b2d1&dates=a8b2d1" />
+<img width="60%" alt="GitHub streak stats" src="./output/github-streak.svg" />
 
 <br/><br/>
 

@@ -1,4 +1,4 @@
-name: generate-snake
+name: generate-stats
 
 on:
   schedule:
@@ -22,14 +22,21 @@ jobs:
           outputs: |
             output/github-snake.svg?palette=github-dark&color_snake=#06b6d4&color_dots=#161b22,#312e81,#6d28d9,#7c3aed,#06b6d4&color_background=#0d1117
 
-      - name: commit-snake
+      - name: generate-streak-stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: output/github-streak.svg
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=a8b2d1&dates=a8b2d1
+
+      - name: commit-stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/github-snake.svg
+          git add output/github-snake.svg output/github-streak.svg
           if git diff --staged --quiet; then
             echo "No changes"
             exit 0
           fi
-          git commit -m "chore: refresh contribution snake"
+          git commit -m "chore: refresh profile stats"
           git push
